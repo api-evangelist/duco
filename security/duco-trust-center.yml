@@ -1,0 +1,19 @@
+generated: '2026-07-18'
+method: searched
+source: https://du.co/about/trust-and-security/
+url: https://du.co/about/trust-and-security/
+certifications:
+- SOC 2 Type 2
+- ISO 27001
+practices:
+- AES-256 encryption at rest
+- AWS High Availability deployment
+- Principle of least privilege
+- Security by design
+notes: >-
+  Duco publishes a Trust and Security page (not a dedicated third-party trust
+  portal such as SafeBase/Vanta/Drata). It names ISO 27001 and SOC 2 Type 2
+  certification; certificates are available on request via the contact form.
+evidence:
+- source: https://du.co/about/trust-and-security/
+  keywords: [soc 2 type 2, iso 27001, encryption, least privilege]

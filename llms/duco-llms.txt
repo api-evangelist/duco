@@ -1,0 +1,76 @@
+# Duco
+
+> Duco is an AI-powered operational data automation platform. It helps financial institutions normalize, validate and reconcile any data in the cloud — cutting the time spent on manual data work, reducing operational risk and accelerating processes across the front, middle and back office.
+
+Duco (du.co) provides no-code data reconciliation, data preparation, intelligent document processing (Adaptive IDP) and agentic AI automation for capital markets firms, asset managers, brokers, asset servicers and market infrastructure. The platform ingests data from any source — including unstructured documents — then normalizes, validates and reconciles it, with full audit and control.
+
+## Product
+- [Duco Platform](https://du.co/product/duco-platform/): Normalize, validate and reconcile any data in the cloud.
+- [Reconciliation](https://du.co/product/reconciliation/): Cloud-based, no-code reconciliation that ingests and normalizes data from multiple sources.
+- [Transform & Prepare](https://du.co/product/data-prep/): No-code tool to normalize, transform and enrich operational data.
+- [Extract & Load](https://du.co/product/extract-load/): Ingest data from any source, including unstructured documents.
+- [Adaptive IDP](https://du.co/product/duco-platform/adaptive-idp/): Intelligent document processing that extracts unstructured data hidden in emails, PDFs and documents.
+- [Agentic Workspace](https://du.co/agentic-workspace/): Agentic AI workspace for operational data automation.
+- [Middle Office Transformation](https://du.co/middle-office-transformation/): Transform middle-office operations with automation.
+
+## Solutions — by client type
+- [Asset Managers](https://du.co/solutions/asset-managers/): Control your data from front to back office.
+- [Asset Servicers](https://du.co/solutions/asset-servicers/): Automate and accelerate operations with agile reconciliation.
+- [Brokers & FCMs](https://du.co/solutions/brokers-fcm/): Get control of your data across the trade lifecycle.
+- [Capital Markets](https://du.co/solutions/capital-markets/): Automate operations across capital markets.
+- [Capital Markets Infrastructure](https://du.co/solutions/cap-markets-infrastructure/): Data automation for market infrastructure.
+- [Commodities Traders](https://du.co/solutions/commodities-traders/): Reconcile complex commodities data.
+- [Private Markets](https://du.co/private-markets/): Data automation for private markets.
+
+## Solutions — by use case
+- [All Use Cases](https://du.co/solutions/all-use-cases/): Browse every Duco use case.
+- [Securities: Holdings & Activity](https://du.co/solutions/securities/): Insight and agility for securities reconciliation.
+- [Derivatives: Holdings & Activity](https://du.co/solutions/derivatives/): ETD and OTC trade data reconciliation.
+- [ETD Clearing](https://du.co/solutions/etd-clearing/): Exchange-traded derivatives clearing reconciliation.
+- [OTC Confirmations](https://du.co/solutions/otc-confirmations/): OTC trade data reconciliation and confirmations.
+- [Custody](https://du.co/solutions/custody/): Strengthen operational controls around custody reconciliation.
+- [Cash Account](https://du.co/solutions/cash-account/): Reduce manual work and risk for cash reconciliation.
+- [Crypto Holdings](https://du.co/solutions/crypto-holdings/): Clarity and control for fiat-crypto data.
+
+## Solutions — regulatory reporting
+- [Transaction & Regulatory Reporting Reconciliations](https://du.co/solutions/transaction-and-regulatory-reporting-reconciliations/): Data quality controls for regulatory transaction reporting.
+- [EMIR](https://du.co/solutions/emir/): Meet the EMIR refit with agile, no-code reconciliation.
+- [CFTC](https://du.co/solutions/cftc/): Meet the CFTC rewrite with agile, no-code reconciliation.
+- [MiFID II](https://du.co/solutions/mifid-ii/): Ensure accuracy and completeness of MiFID II reporting data.
+- [ASIC Rewrite](https://du.co/solutions/asic-rewrite/): Meet the ASIC Rewrite with agile, no-code reconciliation.
+- [MAS](https://du.co/solutions/mas/): Meet the MAS Rewrite with agile, no-code reconciliation.
+- [T+1](https://du.co/solutions/t1/): Meet the compressing timelines of T+1 settlement.
+
+## Customer stories
+- [Customer Stories](https://du.co/customer-stories/): How firms worldwide use Duco to automate and reconcile data, reduce risk and unlock value.
+
+## Resources
+- [Resource Centre](https://du.co/resource-centre/): Guides, reports and tools.
+- [Insights](https://du.co/insights/): Articles on data quality, reconciliation, data prep and data management.
+- [Webinars](https://du.co/webinars/): On-demand and upcoming Duco webinars.
+- [Value Calculator](https://du.co/value-calculator/): Estimate the value Duco can deliver for your operations.
+- [The Reconciliation Maturity Model](https://du.co/reconciliation-maturity-model/): Assess your reconciliation maturity.
+- [Newsroom](https://du.co/newsroom/): Duco news and announcements.
+- [Press Releases](https://du.co/category/press/): Duco in the news.
+
+## Reports & surveys
+- [The State of Data Reconciliation](https://du.co/state-of-data-reconciliation-survey/): Reconciliation maturity in financial services.
+- [Reconciliation is Changing](https://du.co/reconciliation-survey/): How new technology is driving a rethink of reconciliation.
+- [Unlocking the Future of Risk Data Management](https://du.co/duco-prmia-risk-data-survey/): Risk data management survey with PRMIA.
+
+## Company
+- [Our Story](https://du.co/about/our-story/): Who we are and why we make managing mission-critical data easy.
+- [Our Leaders](https://du.co/about/our-leaders/): The team behind Duco.
+- [Our Impact](https://du.co/about/our-impact/): Our culture of innovation.
+- [Trust and Security](https://du.co/about/trust-and-security/): How Duco keeps your data secure.
+- [Careers](https://du.co/careers/): What it's like to work at Duco.
+- [Contact](https://du.co/contact/): Get in touch with Duco.
+- [Request a Demo](https://du.co/request-a-demo/): See Duco in action.
+
+## Optional
+- [Legal](https://du.co/legal/): Duco legal policy.
+- [Privacy](https://du.co/privacy/): Duco privacy policy.
+- [Cookies Policy](https://du.co/cookies-policy/): Duco cookies policy.
+- [Additional Terms](https://du.co/additional-terms/): Duco additional terms.
+- [List of Sub-Processors](https://du.co/sub-processors/): Duco sub-processors.
+- [Security Disclosure Policy](https://du.co/security-disclosure-policy/): Report a security issue.

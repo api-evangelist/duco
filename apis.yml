@@ -1,8 +1,34 @@
 aid: duco
 name: Duco
-description: Duco is a company surfaced as a portfolio company of insight-partners and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Duco is an AI-powered operational data automation platform for financial
+  services. It helps banks, asset managers, brokers, asset servicers and market
+  infrastructure firms normalize, validate and reconcile any data in the cloud —
+  cutting the time spent on manual data work, reducing operational risk and
+  accelerating front-, middle- and back-office processes. The no-code platform
+  ingests data from any source (including unstructured documents via Adaptive
+  Intelligent Document Processing), then transforms, matches, reconciles and
+  publishes it with full audit and control. Duco's Agentic Workspace layers
+  agentic AI over these operations so agents can handle repetitive extraction,
+  matching and exception-labelling work under human oversight. Use cases span
+  securities and derivatives reconciliation, ETD clearing, OTC confirmations,
+  custody, cash accounts, crypto holdings and transaction/regulatory reporting
+  (EMIR, CFTC, MiFID II, ASIC, MAS, T+1). Customers include HSBC, Deutsche Bank,
+  ING, Santander, Northern Trust and Fidelity Digital Assets. Duco is backed by
+  Insight Partners.
 url: https://raw.githubusercontent.com/api-evangelist/duco/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.sanity.io/images/3mfn7e9p/production/60975fc088e68952f8cc42c3b565afea618c04fa-1200x628.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +37,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Financial Services
+- Data Automation
+- Reconciliation
+- Data Quality
+- Capital Markets
+- Regulatory Reporting
+- Agentic AI
+- Fintech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +57,32 @@ maintainers:
 common:
 - type: Website
   url: https://du.co/
+- type: Blog
+  url: https://du.co/insights/
+- type: Support
+  url: https://du.co/contact/
+- type: PrivacyPolicy
+  url: https://du.co/privacy/
+- type: TermsOfService
+  url: https://du.co/legal/
+- type: TrustCenter
+  url: https://du.co/about/trust-and-security/
+- type: Compliance
+  url: https://du.co/about/trust-and-security/
+- type: Security
+  url: https://du.co/security-disclosure-policy
+- type: VulnerabilityDisclosure
+  url: security/duco-vulnerability-disclosure.yml
+- type: SecurityTxt
+  url: well-known/duco-security.txt
+- type: WellKnown
+  url: well-known/duco-well-known.yml
+- type: DomainSecurity
+  url: security/duco-domain-security.yml
+- type: LLMsTxt
+  url: llms/duco-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

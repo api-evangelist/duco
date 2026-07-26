@@ -1,0 +1,5 @@
+Contact: security@du.co
+Expires: 2027-03-03T00:00:00.000Z
+Encryption: https://du.co/public-key.txt
+Preferred-Languages: en
+Policy: https://du.co/security-disclosure-policy
