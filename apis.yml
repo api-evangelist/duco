@@ -51,13 +51,13 @@ created: '2026-07-17'
 modified: '2026-07-18'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Data Automation
 - Reconciliation
 - Data Quality
 - Capital Markets
 - Regulatory Reporting
-- Agentic AI
+- AI Agents
 - Fintech
 tags_raw:
 - Company
@@ -69,6 +69,7 @@ tags_raw:
 - Regulatory Reporting
 - Agentic AI
 - Fintech
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
